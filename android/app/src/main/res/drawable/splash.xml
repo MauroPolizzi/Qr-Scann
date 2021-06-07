@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/colorSuccess"/> <!-- aqui va el color de  fondo-->
+    <item>
+      <!--aqui va la img, ya centrada-->
+      <bitmap
+        android:gravity="center"
+        android:src="@drawable/ic_launcher_background"/>
+    </item>
+  </layer-list>
